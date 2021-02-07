@@ -40,4 +40,8 @@ assert for each request in the validation.
 * [https://devcenter.heroku.com/articles/config-vars](https://devcenter.heroku.com/articles/config-vars)
 * [https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
 
+
+
+### :warning: The test for a 200ms response time fails > 90% on first run. I don't know why?
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/29c51b3c512e7b2c9275)
+    
