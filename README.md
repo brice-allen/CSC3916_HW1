@@ -1,7 +1,7 @@
 # Assignment One
 
 ### Purpose
-The purpose of this assignment is to setup your GitHub and Heroku
+The purpose of this assignment is to set up your GitHub and Heroku
 instances for future assignments.
 
 You will create a Postman collection and create a REST test within the
@@ -23,7 +23,7 @@ assert for each request in the validation.
         * Response status code (e.g. 200)
         * Response time < 200ms
 ### Submissions
-* All source code should be stored on github (remember .gitignore for node_modules)
+* All source code should be stored on github (remember .gitignore for the node_modules)
 * API needs to be deployed to Heroku
 * Create a README.md at the root of your github repository with the embedded(markdown) to your test collection
     * Within the collection click the (...), share collection &#8594; Embed
@@ -31,7 +31,7 @@ assert for each request in the validation.
         * Click update link
         * Include your environment settings
         * Copy to clipboard
-    * Submit the URL to canvas with REPO CSC3916_HW1
+    * Submit the URL to canvas with the REPO CSC3916_HW1
     * Note: All tests should be testing against your Heroku endpoint
 ### Resources
 * [http://nodejs.org](http://nodejs.org)
@@ -43,5 +43,4 @@ assert for each request in the validation.
 
 
 #### :warning: :warning: :warning: The test for a 200ms response time fails > 90% on first run. I don't know why?
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/29c51b3c512e7b2c9275)
-    
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/29c51b3c512e7b2c9275#?env%5BCSCI-3916-hw-01%5D=W10=)    
