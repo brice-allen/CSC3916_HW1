@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/brice-allen/CSC3916_HW1/issues"
   },
-  "homepage": "https://github.com/brice-allen/CSC3916_HW1/blob/main/README.md",
+  "homepage": "https://github.com/brice-allen/CSC3916_HW1#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.2.0",
